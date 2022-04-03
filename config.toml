@@ -1,0 +1,21 @@
+ignore_colors = [
+	[0, 0, 0, 0],
+	# [0, 0, 0, 255], # filter all black
+]
+
+# priority: higher number = higher chance of being placed
+
+version = 16
+
+[priorities]
+"0" = 0
+"1" = 1
+"2" = 5
+"3" = 10
+
+[[structure]]
+name = "domo"
+file = "images/pxArt.png"
+startx = 1345 #x-Koordinate
+starty = 1784 #y-Koordinate
+priority = 2
