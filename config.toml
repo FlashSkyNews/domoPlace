@@ -15,7 +15,14 @@ version = 16
 
 [[structure]]
 name = "domo"
-file = "images/pxArt.png"
+file = "images/domo.png"
 startx = 1345 #x-Koordinate
 starty = 1784 #y-Koordinate
+priority = 2
+
+[[structure]]
+name = "socki"
+file = "images/socki.jpg"
+startx = 1315 #x-Koordinate
+starty = 1783 #y-Koordinate
 priority = 2
